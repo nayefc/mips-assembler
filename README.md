@@ -26,5 +26,6 @@ The assembler supports the following instruction set:
 - jr
 - jal
 
-# Build
+# Run
+    After compiling, run:
     $ ./assembler add.asm add.txt
